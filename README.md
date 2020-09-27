@@ -1,5 +1,4 @@
 # coffee_shop
-Udacity Full Stack Nanodegree project. 
-Dealing with role-based control API design.
-Using third-party library Auth0.
+Udacity Full Stack Nanodegree project, dealing with role-based control API design.
+With the third-party Auth0 library, I am able to control setting account's access with each user.
 Follow [`./README/`](./starter_code/README.md) for more info.
